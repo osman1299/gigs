@@ -1,0 +1,28 @@
+body{
+  background-color: #FFF5E4;
+}
+.center{
+  text-align: center;
+  text-decoration: underline;
+}
+.cntr{
+  text-align: center;
+  width: 60%;
+  padding-left: 250px;
+  font-family: sans-serif;
+}
+a{
+  text-decoration: none;
+}
+.h2{
+ color: #293462;
+ font-size: 35px;
+}
+.h4{
+  color: yellow;
+  font-size: 20px;
+}
+.link{
+  width: 30%;
+  margin-left: 170px;
+}
